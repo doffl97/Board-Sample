@@ -1,73 +1,41 @@
-# Board-Sample(게시판 샘플)
+<p align="center">
+  <img src="https://github.com/username/username/blob/main/header_image.gif" alt="Hello world">
+</p>
 
-<div>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+<p align="center"> 
+  <img src="https://visitor-badge.glitch.me/badge?page_id=username.username" alt="visitors">
+</p>
 
- ## 요구사항
-- [ ] Spring Boot를 사용하는 백엔드 게시판
-  - [ ] 스프링 부트 JPA
-  - [ ] 스프링 부트 JWT 보안(미구현)
-  - [ ] 외부 REST 서비스(SNS Login)(미구현)
-- [ ] html 프론트엔드(구현중)
+<h2 align="center">👋 안녕하세요! 저는 [당신의 이름]입니다</h2>
 
-#### 구현기능
-
-- 게시물등록
-
-- 게시물조회
-
-- 게시물수정
-
-- 게시물삭제
-
-- 파일 첨부
-  - 파일이름
-  - 파일경로
-  - 파일크기
-  - 파일타입
-
-- 댓글
-  - 댓글 ID
-  - 작성자 이름
-  - 내용
-
-- DB에 저장
-  - 게시물 ID
-  - 게시물 제목
-  - 게시물 내용
-  - 작성자 이름
-  - 최초작성시간
-  - 최종수정시간
-
-- ######  미구현항목은 현재 작업중
-[프론트가 아닌 백엔드이기에 눈으로 보이는건 감안해 주시기 바랍니다.]
+<p align="center">
+  <a href="https://linkedin.com/in/username">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/username">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-#### __● 제작 과정에 필요했던 지식__
+### 🌱 현재 저는
 
-1. CRUD 의 개념
-- 엔티티 등록
-- DB(MySQL)에 저장
-- CRUD 구현 클래스 작성
+- 🔭 [회사명]에서 [직위]로 일하고 있습니다.
+- 🌱 [기술명]을 배우고 있습니다.
+- 🤔 [프로젝트명]에 대해 고민하고 있습니다.
+- 💬 저에게 [주제]에 대해 물어보세요.
+- 📫 이메일로 연락해주세요: [이메일 주소]
+- 😄 저의 별명: [별명]
+- ⚡ 재미있는 사실: [재미있는 사실]
 
-<br>
-2. 스프링부트 어노테이션 사용
+---
 
-- RequestPharam, Model 등의 데이터 공유방안
-- CRUD구현 클래스에 사용되는 어노테이션(@Controller , @Service, @Data....)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=username&theme=dark&hide_border=true&background=FFFFFFFF" width = 400>
+</p>
 
-<br> 3. HTML과 스프링부트 간의 데이터 공유
-
-<br>
- 4. 자바 문법
- - 데이터 타입
- - 예외처리
- - 람다식 활용
- <br>...
-
- ---
-###  추가 예정
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=bear" />
+</p>
